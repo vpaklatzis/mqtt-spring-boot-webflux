@@ -1,0 +1,8 @@
+hivemq:
+  uri:
+    tcp://localhost:1884
+  topic:
+    temp
+
+server:
+  port: 8081

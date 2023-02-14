@@ -1,0 +1,5 @@
+hivemq:
+  uri:
+    tcp://localhost:1884
+  topic:
+    temp
